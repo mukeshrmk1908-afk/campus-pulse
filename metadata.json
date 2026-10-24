@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse - Campus Helpdesk",
+  "description": "Modern Campus Helpdesk web application for students and staff to submit, track, and resolve campus issues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
